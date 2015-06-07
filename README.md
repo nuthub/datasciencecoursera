@@ -1,2 +1,2 @@
-# datsci
+# datasciencecoursera
 Data Scientists Toolbox
